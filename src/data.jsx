@@ -57,8 +57,8 @@ export const projects = [
   {
     id: nanoid(),
     img: 'src/assets/project-4.png',
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
+    url: 'https://incandescent-gecko-fede40.netlify.app/',
+    github: 'https://github.com/EmmyTech21/popcorn-movie.git',
     title: 'Movie Popcorn',
     text: "usePopcorn is a React application that empowers users to explore movies, rate them, and manage their watched movies list. Let’s dive into the details:",
   },
