@@ -32,7 +32,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'public/Project-1.png',
+    img: 'src/assets/images/Project-1.png',
     url: 'https://visionary-concha-85a5e2.netlify.app/',
     github: 'https://github.com/EmmyTech21/Comfy-store.git',
     title: 'E-commerce app',
@@ -40,7 +40,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'public/project-2.png',
+    img: 'src/assets/images/project-2.png',
     url: 'https://strong-cendol-0ff0c8.netlify.app/',
     github: 'https://github.com/EmmyTech21/Mix-master-drink.git',
     title: 'Mix-Maxter Drink',
@@ -48,7 +48,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'public/project-3.png',
+    img: 'src/assets/images/project-3.png',
     url: 'https://teal-tapioca-930ab7.netlify.app',
     github: 'https://github.com/EmmyTech21/travel-list.git',
     title: 'Travel_list',
@@ -56,7 +56,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: 'public/project-4.png',
+    img: 'src/assets/images/project-4.png',
     url: 'https://incandescent-gecko-fede40.netlify.app/',
     github: 'https://github.com/EmmyTech21/popcorn-movie.git',
     title: 'Movie Popcorn',
